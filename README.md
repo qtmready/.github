@@ -1,0 +1,1 @@
+Quantm is an OpenGitOps framework to build durable delivery for distributed systems by using a combination of "merge queues", "changesets", "immutable infrastructure", "progressive rollouts" and "rollbacks".
